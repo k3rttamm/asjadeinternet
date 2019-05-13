@@ -9,6 +9,6 @@ blog: http://asjadeinternet2019.000webhostapp.com/test1.2/blog.php
 
 ### Rühmatöö 5:
 
-graafikud:
+graafikud: http://greeny.cs.tlu.ee/~ttaevik/graafik/test/index.php
 
-blog:
+blog: http://greeny.cs.tlu.ee/~ttaevik/graafik/test/blog.php
